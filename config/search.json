@@ -4,7 +4,7 @@
       "title_cleanup_regex": "^(.*?)\\s+\u2013",
       "content_selectors": ["[data-searchable]"],
       "content_sections": ["h2", "h3", "h4"],
-      "content_scoring": {
+      "content_scoridafng": {
         "learn": "6",
         "clients": "7",
         "integrations": "6",
